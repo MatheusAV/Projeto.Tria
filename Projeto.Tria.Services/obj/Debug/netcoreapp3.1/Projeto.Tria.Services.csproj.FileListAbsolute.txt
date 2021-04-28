@@ -1,0 +1,17 @@
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Services.deps.json
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Services.runtimeconfig.json
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Services.runtimeconfig.dev.json
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Services.dll
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Services.pdb
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.csprojAssemblyReference.cache
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.AssemblyInfoInputs.cache
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.AssemblyInfo.cs
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.csproj.CoreCompileInputs.cache
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.dll
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.pdb
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.genruntimeconfig.cache
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Domain.dll
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Infra.dll
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Infra.pdb
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\bin\Debug\netcoreapp3.1\Projeto.Tria.Domain.pdb
+C:\ProjetoTria\Projeto.Tria\Projeto.Tria.Services\obj\Debug\netcoreapp3.1\Projeto.Tria.Services.csproj.CopyComplete

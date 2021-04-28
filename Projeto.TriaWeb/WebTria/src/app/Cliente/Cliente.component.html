@@ -1,0 +1,39 @@
+<div class="conteiner" style="background-color: #F4F7FC;">
+  <div class="row" style="padding-top: 15px;"> </div>
+  <div class="col-12">
+    <div class="col-4"></div>
+    <div class="col-4">
+      <button routerLink="Cliente/add/0" type="button" class="btn btn-primary btn-lg">Novo Cliente</button>
+    </div>
+  </div>
+  <div class="row" style="padding-bottom: 15px;"> </div>
+
+  <div class="col-12">
+    <table class="table table-bordered table-dark" style="border-radius: 2px;">
+      <thead>
+        <tr>
+          <th scope="col">Empresa</th>
+          <th scope="col">Cliente</th>
+          <th scope="col">Telefone</th>
+          <th scope="col">E_mail</th>
+          <th scope="col">Ações</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let cliente of clientes">
+          <th>{{cliente.nomeDaEmpresa}}</th>
+          <td>{{cliente.nomeDoCliente}}</td>
+          <td>{{cliente.tel}}</td>
+          <td>{{cliente.e_mail}}</td>
+          <td>
+            <button class="btn btn-warning col-4" routerLink="Cliente/edit/{{cliente.idCliente}}">Editar</button>
+
+            <button class="btn btn-danger col-4" type="submit" (click)="deletar(cliente.idCliente)">Deletar</button>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+</div>
